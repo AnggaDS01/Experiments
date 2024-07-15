@@ -1,0 +1,19 @@
+Matlab UI
+- background: 000D38
+- text: 82C8F6
+- comment: 00FF00
+- unterminated string: FF0A54
+- syntax error: FF0000
+- keyword: FF00FF
+- strings: 99FF66
+- system command: B28C00
+- validation sections: A0522D
+- error text: FF0000
+- hyperlinks: 0000FF 
+- warning text: FFFF99
+
+Programming tools
+- warning: FF9400
+- variable and function colors: 1B4F35
+- section display options: 003049
+- variables with shared: 00A3A3 
